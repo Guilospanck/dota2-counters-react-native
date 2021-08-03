@@ -1,0 +1,4 @@
+#Mon Oct 26 21:08:23 BRT 2020
+base.0=C\:\\Users\\Guilherme.DESKTOP-5ABP82G\\Desktop\\DOTA2_counterAPP\\react_native_app\\dota2cp\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
